@@ -1,0 +1,10 @@
+aides used
+
+geeksforgeeks
+stackoverflow
+
+bash manual (not as useful as i imagined)
+
+gnu.org
+
+
